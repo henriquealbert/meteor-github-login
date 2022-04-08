@@ -2,3 +2,17 @@ body {
   padding: 10px;
   font-family: sans-serif;
 }
+
+.github-btn {
+  border: 1px solid #e1e5f0;
+  background-color: #fff;
+  width: 245px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.github-btn > div {
+  margin-left: 4px;
+}
